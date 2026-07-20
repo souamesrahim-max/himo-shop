@@ -1,0 +1,24 @@
+body {
+    background-color: #111111;
+    color: white;
+    font-family: Arial, sans-serif;
+    text-align: center;
+    margin: 0;
+    padding: 50px;
+}
+
+h1 {
+    color: gold;
+    font-size: 48px;
+}
+
+p {
+    color: white;
+    font-size: 20px;
+}
+.products img {
+    width: 80%;
+    max-width: 700px;
+    height: auto;
+    border-radius: 12px;
+}
